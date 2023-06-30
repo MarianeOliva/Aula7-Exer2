@@ -1,2 +1,5 @@
-# Aula7-Exer2
-HTML E CSS
+# Operadoras 
+
+Pequena página Web sobre Operadoras Telefônicas.
+
+Feito utilizando HTML & CSS
